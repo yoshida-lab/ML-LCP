@@ -53,6 +53,10 @@ Please refer to the provided notebooks and scripts for detailed instructions on 
 
 ---
 
+## Reproducibility
+This repository contains the code used in the manuscript:
+"Design and Phase Control of Liquid Crystal Polymers Using Machine Learning"
+
 ## License
 - Code: MIT License  
 - Datasets: MIT License
