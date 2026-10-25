@@ -27,7 +27,7 @@ Due to redistribution restrictions, the PoLyInfo dataset must be obtained direct
 ## Reproducing the Paper Results
 
 The notebook  
-[`0_CreateDataset.ipynb`](https://github.com/ryoji-himeno/paper_LCP_code/blob/main/0_CreateDataset.ipynb)  
+[`0_CreateDataset.ipynb`](https://github.com/yoshida-lab/ML-LCP/blob/main/0_CreateDataset.ipynb)  
 contains **two alternative implementations**:
 
 - **Default code (active)**:  
